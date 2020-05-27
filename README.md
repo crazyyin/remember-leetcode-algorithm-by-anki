@@ -1,1 +1,2 @@
-# remember-leetcode-algorithm-by-anki-anki-leetcode-anki-
+# 用anki记忆leetcode算法题
+# ankiでleetcodeのアルゴリズムを覚える
